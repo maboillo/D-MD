@@ -1,0 +1,14 @@
+//Autor Manuel Boillos
+
+MAP:
+				Shop
+Sanitarium		Square		Inn
+				Dungeon
+				
+Commands:
+help - List of commands
+l - look at your surroundings
+l OBJETIVE - look at a conscience object or derail more closely
+say TEXT - send TEXT as chat message to all logged in users
+who - list of currently logged users
+n, w, s, e - north, west, south and east with the command you move in each direction
